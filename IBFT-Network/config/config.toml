@@ -1,0 +1,21 @@
+# Besu Configuration File
+
+# Set network ID
+network=1337
+
+# Enable JSON-RPC APIs
+rpc-http-enabled=true
+rpc-http-api=ETH,NET,IBFT
+
+# Set host allowlist and CORS origins
+host-allowlist=*
+rpc-http-cors-origins=all
+
+# Set the consensus engine to IBFT 2.0 and its parameters
+ibft-enabled=true
+ibft-epoch-length=30000
+ibft-request-timeout=4
+ibft-block-period=2
+
+# Set the genesis file path
+genesis-file=/path/to/genesis.json
