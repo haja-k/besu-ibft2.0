@@ -29,7 +29,7 @@ nodeUrls.forEach((url, index) => {
   networkConfigs[networkName] = {
     provider: privateKeyProvider,
     network_id: '*',
-    gas: 0,
+    gas: "0x1ffffffffffffe",
     gasPrice: 0
   }
 });

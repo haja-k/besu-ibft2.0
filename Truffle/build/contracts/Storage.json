@@ -601,12 +601,12 @@
     "1337": {
       "events": {},
       "links": {},
-      "address": "0x38A8d6eBb5749335ca5785ab23337eEbBA991698",
-      "transactionHash": "0xb2a6a46129ae09a215c2e1c42e03f646d7ec17d5f462259624f63c5a40cc30d3"
+      "address": "0x8e933a8AA5eCe88C5aEBef568c8FA1f3e5268bd3",
+      "transactionHash": "0x8faadf327a0a48635297699168ed6a79a4d67aa253d52e30feffdb26218dc4d7"
     }
   },
   "schemaVersion": "3.4.13",
-  "updatedAt": "2023-05-15T04:05:35.583Z",
+  "updatedAt": "2023-05-15T04:14:33.542Z",
   "networkType": "ethereum",
   "devdoc": {
     "methods": {}
