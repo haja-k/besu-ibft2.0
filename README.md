@@ -1,5 +1,5 @@
 # besu-ibft2.0
-Hyperledger Besu with IBFT 2.0 Experiment, with Tessera for Privacy.
+Hyperledger Besu with IBFT 2.0 Experiment, with Tessera for Privacy (+ Truffle).
 
 ### getting started:
 1. Install Hyperledger Besu

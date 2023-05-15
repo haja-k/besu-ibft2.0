@@ -1100,3 +1100,9 @@ Caused by: org.h2.mvstore.MVStoreException: The file is locked: /Users/dsisains/
 	at com.h2database@2.1.214/org.h2.mvstore.FileStore.open(FileStore.java:128)
 	at com.h2database@2.1.214/org.h2.mvstore.MVStore.<init>(MVStore.java:452)
 	... 42 more
+2023-05-11 15:05:38 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ST_TRANSACTION" not found; SQL statement:
+SELECT 1 FROM ST_TRANSACTION [42102-214]
+2023-05-11 15:05:38 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ST_AFFECTED_TRANSACTION" not found; SQL statement:
+SELECT 1 FROM ST_AFFECTED_TRANSACTION [42102-214]
